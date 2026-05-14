@@ -82,18 +82,6 @@ Looking for first hands-on opportunities in data analysis and ML pipelines.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dani-Ideas&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e63946&icon_color=e63946)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dani-Ideas&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e63946)
-
-</div>
-
----
-
 <a name="sobre-mi"></a>
 
 ## 🇲🇽 Sobre mí
