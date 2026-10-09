@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dani%20Ideas&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20UNAM&descSize=17&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dani%20Ideas&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Java%20%C2%B7%20TypeScript%20%C2%B7%20Python%20%C2%B7%20UNAM&descSize=17&descAlignY=60)
 
 
 <div align="center">
