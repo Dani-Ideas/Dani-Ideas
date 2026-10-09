@@ -31,13 +31,13 @@ Growing toward **Data Science / data analysis**: solid academic foundation, firs
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,postgresql,prisma,tailwind,python,docker,vercel" />
+    <img src="https://skillicons.dev/icons?i=Java,nextjs,react,typescript,nodejs,postgresql,prisma,tailwind,python,docker,vercel" />
   </a>
 </p>
 
 | Area | Tools |
 |---|---|
-| Core | TypeScript · Next.js · React · Node.js |
+| Core | TypeScript · Java · React · Node.js |
 | Backend / DB | PostgreSQL · Prisma ORM · Supabase · Django · BigQuery |
 | Infra | Docker · Vercel · Cloudflare |
 | Automation | Python · Playwright · Web Scraping · asyncio |
