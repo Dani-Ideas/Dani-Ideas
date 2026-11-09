@@ -31,7 +31,7 @@ Growing toward **Data Science / data analysis**: solid academic foundation, firs
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nextjs,nodejs,astro,postman,react,typescript,nodejs,postgresql,prisma,tailwind,python,docker,vercel" />
+    <img src="https://skillicons.dev/icons?i=java,nextjs,astro,postman,react,typescript,nodejs,postgresql,prisma,tailwind,python,docker,vercel,hibernate,linux,aws" />
   </a>
 </p>
 
